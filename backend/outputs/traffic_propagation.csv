@@ -1,0 +1,1035 @@
+source_cluster,source_station,source_junction,affected_cluster,affected_station,affected_junction,distance_km,propagation_risk
+119,Thalagattapura,No Junction,7,Thalagattapura,No Junction,0.437,Very High
+7,Thalagattapura,No Junction,119,Thalagattapura,No Junction,0.437,Very High
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,168,Cubbon Park,BTP052 - CID Carlton House Junction,0.439,Very High
+168,Cubbon Park,BTP052 - CID Carlton House Junction,114,Cubbon Park,BTP041 - Gopal Gowda Circle,0.439,Very High
+105,Chamarajpet,BTP085 - Briyand Circle,213,Chamarajpet,BTP085 - Briyand Circle,0.466,Very High
+213,Chamarajpet,BTP085 - Briyand Circle,105,Chamarajpet,BTP085 - Briyand Circle,0.466,Very High
+207,Whitefield,No Junction,176,Whitefield,No Junction,0.467,Very High
+176,Whitefield,No Junction,207,Whitefield,No Junction,0.467,Very High
+155,Peenya,No Junction,161,Peenya,No Junction,0.492,Very High
+161,Peenya,No Junction,155,Peenya,No Junction,0.492,Very High
+175,J.P. Nagar,No Junction,189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",0.499,Very High
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",175,J.P. Nagar,No Junction,0.499,Very High
+17,Banashankari,No Junction,190,Banashankari,No Junction,0.504,High
+190,Banashankari,No Junction,17,Banashankari,No Junction,0.504,High
+10,High ground,No Junction,47,Cubbon Park,BTP166 - Coffee Board Junction,0.511,High
+47,Cubbon Park,BTP166 - Coffee Board Junction,10,High ground,No Junction,0.511,High
+168,Cubbon Park,BTP052 - CID Carlton House Junction,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,0.515,High
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,168,Cubbon Park,BTP052 - CID Carlton House Junction,0.515,High
+166,HSR Layout,No Junction,67,HSR Layout,No Junction,0.524,High
+67,HSR Layout,No Junction,166,HSR Layout,No Junction,0.524,High
+133,Basavanagudi,No Junction,74,Basavanagudi,BTP108 - Tagore Park Junction,0.532,High
+74,Basavanagudi,BTP108 - Tagore Park Junction,133,Basavanagudi,No Junction,0.532,High
+94,Bellandur,No Junction,8,Bellandur,No Junction,0.533,High
+8,Bellandur,No Junction,94,Bellandur,No Junction,0.533,High
+184,Chikkabanavara,No Junction,92,Chikkabanavara,No Junction,0.534,High
+92,Chikkabanavara,No Junction,184,Chikkabanavara,No Junction,0.534,High
+10,High ground,No Junction,16,High ground,BTP032 - Windsor Circle,0.537,High
+16,High ground,BTP032 - Windsor Circle,10,High ground,No Junction,0.537,High
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",0.537,High
+64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",0.537,High
+184,Chikkabanavara,No Junction,12,Peenya,No Junction,0.539,High
+12,Peenya,No Junction,184,Chikkabanavara,No Junction,0.539,High
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",0.544,High
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",0.544,High
+74,Basavanagudi,BTP108 - Tagore Park Junction,206,V.V.Puram (C.Pet),BTP107 - National College Junction,0.545,High
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,74,Basavanagudi,BTP108 - Tagore Park Junction,0.545,High
+156,Jeevanbheemanagar,No Junction,117,Jeevanbheemanagar,No Junction,0.55,High
+117,Jeevanbheemanagar,No Junction,156,Jeevanbheemanagar,No Junction,0.55,High
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,0.562,High
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,0.562,High
+56,HSR Layout,No Junction,11,HSR Layout,No Junction,0.569,High
+11,HSR Layout,No Junction,56,HSR Layout,No Junction,0.569,High
+203,R.T. Nagar,No Junction,150,R.T. Nagar,No Junction,0.582,High
+150,R.T. Nagar,No Junction,203,R.T. Nagar,No Junction,0.582,High
+86,Chikkabanavara,No Junction,89,Peenya,No Junction,0.583,High
+89,Peenya,No Junction,86,Chikkabanavara,No Junction,0.583,High
+182,J.P. Nagar,BTP222 - Delmia Circle,162,J.P. Nagar,No Junction,0.587,High
+162,J.P. Nagar,No Junction,182,J.P. Nagar,BTP222 - Delmia Circle,0.587,High
+160,Electronic City,No Junction,191,Electronic City,No Junction,0.59,High
+191,Electronic City,No Junction,160,Electronic City,No Junction,0.59,High
+47,Cubbon Park,BTP166 - Coffee Board Junction,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,0.594,High
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,47,Cubbon Park,BTP166 - Coffee Board Junction,0.594,High
+204,Hennuru,No Junction,154,Hennuru,No Junction,0.595,High
+154,Hennuru,No Junction,204,Hennuru,No Junction,0.595,High
+219,Madiwala,No Junction,37,HSR Layout,No Junction,0.605,High
+37,HSR Layout,No Junction,219,Madiwala,No Junction,0.605,High
+90,Sadashivanagar,No Junction,111,Sadashivanagar,BTP030 - Mekhri Circle,0.608,High
+111,Sadashivanagar,BTP030 - Mekhri Circle,90,Sadashivanagar,No Junction,0.608,High
+58,Jalahalli,No Junction,147,Jalahalli,No Junction,0.615,High
+147,Jalahalli,No Junction,58,Jalahalli,No Junction,0.615,High
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,206,V.V.Puram (C.Pet),BTP107 - National College Junction,0.633,High
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,0.633,High
+210,Adugodi,No Junction,167,Adugodi,No Junction,0.64,High
+167,Adugodi,No Junction,210,Adugodi,No Junction,0.64,High
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",182,J.P. Nagar,BTP222 - Delmia Circle,0.648,High
+182,J.P. Nagar,BTP222 - Delmia Circle,189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",0.648,High
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,206,V.V.Puram (C.Pet),BTP107 - National College Junction,0.652,High
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,0.652,High
+123,HAL Old Airport,No Junction,202,Mahadevapura,No Junction,0.658,High
+202,Mahadevapura,No Junction,123,HAL Old Airport,No Junction,0.658,High
+214,R.T. Nagar,BTP030 - Mekhri Circle,48,R.T. Nagar,No Junction,0.66,High
+48,R.T. Nagar,No Junction,214,R.T. Nagar,BTP030 - Mekhri Circle,0.66,High
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,10,High ground,No Junction,0.674,High
+10,High ground,No Junction,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,0.674,High
+12,Peenya,No Junction,89,Peenya,No Junction,0.677,High
+89,Peenya,No Junction,12,Peenya,No Junction,0.677,High
+112,Yelahanka,No Junction,83,Yelahanka,No Junction,0.684,High
+83,Yelahanka,No Junction,112,Yelahanka,No Junction,0.684,High
+131,Adugodi,No Junction,167,Adugodi,No Junction,0.69,High
+167,Adugodi,No Junction,131,Adugodi,No Junction,0.69,High
+105,Chamarajpet,BTP085 - Briyand Circle,188,Magadi Road,BTP074 - Leprosy Hospital Junction,0.693,High
+188,Magadi Road,BTP074 - Leprosy Hospital Junction,105,Chamarajpet,BTP085 - Briyand Circle,0.693,High
+187,HSR Layout,No Junction,11,HSR Layout,No Junction,0.702,High
+11,HSR Layout,No Junction,187,HSR Layout,No Junction,0.702,High
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",142,Basavanagudi,BTP216 - Yediyur Junction,0.71,High
+142,Basavanagudi,BTP216 - Yediyur Junction,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",0.71,High
+192,Whitefield,No Junction,185,Whitefield,No Junction,0.729,High
+185,Whitefield,No Junction,192,Whitefield,No Junction,0.729,High
+59,Mahadevapura,No Junction,42,Banaswadi,No Junction,0.729,High
+42,Banaswadi,No Junction,59,Mahadevapura,No Junction,0.729,High
+6,HSR Layout,No Junction,67,HSR Layout,No Junction,0.733,High
+67,HSR Layout,No Junction,6,HSR Layout,No Junction,0.733,High
+122,Wilson Garden,No Junction,33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",0.737,High
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",122,Wilson Garden,No Junction,0.737,High
+187,HSR Layout,No Junction,27,HSR Layout,No Junction,0.746,High
+27,HSR Layout,No Junction,187,HSR Layout,No Junction,0.746,High
+32,Kodigehalli,No Junction,116,Kodigehalli,No Junction,0.753,High
+116,Kodigehalli,No Junction,32,Kodigehalli,No Junction,0.753,High
+197,Whitefield,No Junction,165,Whitefield,No Junction,0.76,High
+165,Whitefield,No Junction,197,Whitefield,No Junction,0.76,High
+143,Rajajinagar,No Junction,36,Rajajinagar,No Junction,0.768,High
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,16,High ground,BTP032 - Windsor Circle,0.768,High
+36,Rajajinagar,No Junction,143,Rajajinagar,No Junction,0.768,High
+16,High ground,BTP032 - Windsor Circle,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,0.768,High
+56,HSR Layout,No Junction,108,HSR Layout,No Junction,0.77,High
+108,HSR Layout,No Junction,56,HSR Layout,No Junction,0.77,High
+144,Bellandur,No Junction,102,Bellandur,No Junction,0.771,High
+102,Bellandur,No Junction,144,Bellandur,No Junction,0.771,High
+32,Kodigehalli,No Junction,53,Kodigehalli,No Junction,0.771,High
+53,Kodigehalli,No Junction,32,Kodigehalli,No Junction,0.771,High
+129,J.P. Nagar,No Junction,104,Hulimavu,No Junction,0.772,High
+104,Hulimavu,No Junction,129,J.P. Nagar,No Junction,0.772,High
+77,Mahadevapura,No Junction,14,K.R. Pura,No Junction,0.779,High
+14,K.R. Pura,No Junction,77,Mahadevapura,No Junction,0.779,High
+58,Jalahalli,No Junction,161,Peenya,No Junction,0.783,High
+161,Peenya,No Junction,58,Jalahalli,No Junction,0.783,High
+152,K.S. Layout,No Junction,57,K.S. Layout,No Junction,0.784,High
+57,K.S. Layout,No Junction,152,K.S. Layout,No Junction,0.784,High
+16,High ground,BTP032 - Windsor Circle,41,Sheshadripuram,BTP032 - Windsor Circle,0.794,High
+41,Sheshadripuram,BTP032 - Windsor Circle,16,High ground,BTP032 - Windsor Circle,0.794,High
+27,HSR Layout,No Junction,11,HSR Layout,No Junction,0.802,High
+11,HSR Layout,No Junction,27,HSR Layout,No Junction,0.802,High
+47,Cubbon Park,BTP166 - Coffee Board Junction,168,Cubbon Park,BTP052 - CID Carlton House Junction,0.805,High
+168,Cubbon Park,BTP052 - CID Carlton House Junction,47,Cubbon Park,BTP166 - Coffee Board Junction,0.805,High
+89,Peenya,No Junction,184,Chikkabanavara,No Junction,0.811,High
+184,Chikkabanavara,No Junction,89,Peenya,No Junction,0.811,High
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",0.813,High
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",0.813,High
+163,Wilson Garden,No Junction,33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",0.817,High
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",163,Wilson Garden,No Junction,0.817,High
+28,Mico Layout,No Junction,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",0.824,High
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",28,Mico Layout,No Junction,0.824,High
+66,K.S. Layout,No Junction,43,Thalagattapura,No Junction,0.829,High
+43,Thalagattapura,No Junction,66,K.S. Layout,No Junction,0.829,High
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",0.838,High
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",221,Banashankari,"BTP114 - KR Road Junction, Near JSS",0.838,High
+172,HSR Layout,No Junction,177,Bellandur,No Junction,0.843,High
+177,Bellandur,No Junction,172,HSR Layout,No Junction,0.843,High
+25,HAL Old Airport,No Junction,196,HAL Old Airport,No Junction,0.847,High
+196,HAL Old Airport,No Junction,25,HAL Old Airport,No Junction,0.847,High
+50,Mico Layout,No Junction,39,Mico Layout,BTP126 - Dairy Circle,0.848,High
+39,Mico Layout,BTP126 - Dairy Circle,50,Mico Layout,No Junction,0.848,High
+202,Mahadevapura,No Junction,193,Mahadevapura,No Junction,0.851,High
+193,Mahadevapura,No Junction,202,Mahadevapura,No Junction,0.851,High
+31,Bellandur,No Junction,40,Bellandur,No Junction,0.855,High
+40,Bellandur,No Junction,31,Bellandur,No Junction,0.855,High
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,0.858,High
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,0.858,High
+166,HSR Layout,No Junction,108,HSR Layout,No Junction,0.859,High
+48,R.T. Nagar,No Junction,38,R.T. Nagar,No Junction,0.859,High
+38,R.T. Nagar,No Junction,48,R.T. Nagar,No Junction,0.859,High
+108,HSR Layout,No Junction,166,HSR Layout,No Junction,0.859,High
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,114,Cubbon Park,BTP041 - Gopal Gowda Circle,0.866,High
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,0.866,High
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,47,Cubbon Park,BTP166 - Coffee Board Junction,0.868,High
+47,Cubbon Park,BTP166 - Coffee Board Junction,114,Cubbon Park,BTP041 - Gopal Gowda Circle,0.868,High
+145,Rajajinagar,No Junction,115,Yeshwanthpura,No Junction,0.869,High
+115,Yeshwanthpura,No Junction,145,Rajajinagar,No Junction,0.869,High
+156,Jeevanbheemanagar,No Junction,125,Jeevanbheemanagar,No Junction,0.873,High
+125,Jeevanbheemanagar,No Junction,156,Jeevanbheemanagar,No Junction,0.873,High
+162,J.P. Nagar,No Junction,175,J.P. Nagar,No Junction,0.875,High
+175,J.P. Nagar,No Junction,162,J.P. Nagar,No Junction,0.875,High
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",0.877,High
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",0.877,High
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",163,Wilson Garden,No Junction,0.878,High
+93,Jnanabharathi,No Junction,1,Byatarayanapura,No Junction,0.878,High
+1,Byatarayanapura,No Junction,93,Jnanabharathi,No Junction,0.878,High
+163,Wilson Garden,No Junction,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",0.878,High
+67,HSR Layout,No Junction,108,HSR Layout,No Junction,0.879,High
+108,HSR Layout,No Junction,67,HSR Layout,No Junction,0.879,High
+210,Adugodi,No Junction,70,Adugodi,BTP135 - UCO Bank Junction,0.884,High
+122,Wilson Garden,No Junction,54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",0.884,High
+70,Adugodi,BTP135 - UCO Bank Junction,210,Adugodi,No Junction,0.884,High
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",122,Wilson Garden,No Junction,0.884,High
+182,J.P. Nagar,BTP222 - Delmia Circle,175,J.P. Nagar,No Junction,0.888,High
+175,J.P. Nagar,No Junction,182,J.P. Nagar,BTP222 - Delmia Circle,0.888,High
+28,Mico Layout,No Junction,87,Mico Layout,BTP130 - GD Mara Junction,0.891,High
+87,Mico Layout,BTP130 - GD Mara Junction,28,Mico Layout,No Junction,0.891,High
+38,R.T. Nagar,No Junction,214,R.T. Nagar,BTP030 - Mekhri Circle,0.892,High
+214,R.T. Nagar,BTP030 - Mekhri Circle,38,R.T. Nagar,No Junction,0.892,High
+211,Pulikeshinagar(F.Town),No Junction,179,Banaswadi,No Junction,0.896,High
+179,Banaswadi,No Junction,211,Pulikeshinagar(F.Town),No Junction,0.896,High
+1,Byatarayanapura,No Junction,200,Byatarayanapura,No Junction,0.899,High
+200,Byatarayanapura,No Junction,1,Byatarayanapura,No Junction,0.899,High
+155,Peenya,No Junction,12,Peenya,No Junction,0.901,High
+12,Peenya,No Junction,155,Peenya,No Junction,0.901,High
+139,Yelahanka,No Junction,112,Yelahanka,No Junction,0.903,High
+112,Yelahanka,No Junction,139,Yelahanka,No Junction,0.903,High
+211,Pulikeshinagar(F.Town),No Junction,141,Pulikeshinagar(F.Town),No Junction,0.913,High
+46,Kodigehalli,No Junction,53,Kodigehalli,No Junction,0.913,High
+141,Pulikeshinagar(F.Town),No Junction,211,Pulikeshinagar(F.Town),No Junction,0.913,High
+53,Kodigehalli,No Junction,46,Kodigehalli,No Junction,0.913,High
+209,Electronic City,No Junction,222,Electronic City,No Junction,0.914,High
+6,HSR Layout,No Junction,37,HSR Layout,No Junction,0.914,High
+222,Electronic City,No Junction,209,Electronic City,No Junction,0.914,High
+37,HSR Layout,No Junction,6,HSR Layout,No Junction,0.914,High
+157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,71,Kamakshipalya,No Junction,0.916,High
+64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",0.916,High
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",0.916,High
+71,Kamakshipalya,No Junction,157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,0.916,High
+77,Mahadevapura,No Junction,18,Mahadevapura,No Junction,0.92,High
+18,Mahadevapura,No Junction,77,Mahadevapura,No Junction,0.92,High
+210,Adugodi,No Junction,131,Adugodi,No Junction,0.926,High
+131,Adugodi,No Junction,210,Adugodi,No Junction,0.926,High
+144,Bellandur,No Junction,62,Bellandur,No Junction,0.928,High
+62,Bellandur,No Junction,144,Bellandur,No Junction,0.928,High
+214,R.T. Nagar,BTP030 - Mekhri Circle,111,Sadashivanagar,BTP030 - Mekhri Circle,0.929,High
+111,Sadashivanagar,BTP030 - Mekhri Circle,214,R.T. Nagar,BTP030 - Mekhri Circle,0.929,High
+6,HSR Layout,No Junction,108,HSR Layout,No Junction,0.932,High
+108,HSR Layout,No Junction,6,HSR Layout,No Junction,0.932,High
+190,Banashankari,No Junction,153,Byatarayanapura,No Junction,0.933,High
+153,Byatarayanapura,No Junction,190,Banashankari,No Junction,0.933,High
+162,J.P. Nagar,No Junction,138,J.P. Nagar,No Junction,0.94,High
+138,J.P. Nagar,No Junction,162,J.P. Nagar,No Junction,0.94,High
+148,Jalahalli,No Junction,100,Jalahalli,No Junction,0.942,High
+100,Jalahalli,No Junction,148,Jalahalli,No Junction,0.942,High
+74,Basavanagudi,BTP108 - Tagore Park Junction,142,Basavanagudi,BTP216 - Yediyur Junction,0.949,High
+142,Basavanagudi,BTP216 - Yediyur Junction,74,Basavanagudi,BTP108 - Tagore Park Junction,0.949,High
+200,Byatarayanapura,No Junction,153,Byatarayanapura,No Junction,0.951,High
+153,Byatarayanapura,No Junction,200,Byatarayanapura,No Junction,0.951,High
+70,Adugodi,BTP135 - UCO Bank Junction,131,Adugodi,No Junction,0.952,High
+131,Adugodi,No Junction,70,Adugodi,BTP135 - UCO Bank Junction,0.952,High
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",182,J.P. Nagar,BTP222 - Delmia Circle,0.956,High
+182,J.P. Nagar,BTP222 - Delmia Circle,75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",0.956,High
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",221,Banashankari,"BTP114 - KR Road Junction, Near JSS",0.956,High
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",0.956,High
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",0.957,High
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",0.957,High
+58,Jalahalli,No Junction,155,Peenya,No Junction,0.958,High
+155,Peenya,No Junction,58,Jalahalli,No Junction,0.958,High
+74,Basavanagudi,BTP108 - Tagore Park Junction,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,0.964,High
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,74,Basavanagudi,BTP108 - Tagore Park Junction,0.964,High
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",162,J.P. Nagar,No Junction,0.967,High
+162,J.P. Nagar,No Junction,189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",0.967,High
+81,Adugodi,No Junction,167,Adugodi,No Junction,0.971,High
+167,Adugodi,No Junction,81,Adugodi,No Junction,0.971,High
+16,High ground,BTP032 - Windsor Circle,47,Cubbon Park,BTP166 - Coffee Board Junction,0.972,High
+47,Cubbon Park,BTP166 - Coffee Board Junction,16,High ground,BTP032 - Windsor Circle,0.972,High
+63,Sadashivanagar,No Junction,159,Kodigehalli,No Junction,0.973,High
+159,Kodigehalli,No Junction,63,Sadashivanagar,No Junction,0.973,High
+141,Pulikeshinagar(F.Town),No Junction,181,Banaswadi,No Junction,0.974,High
+181,Banaswadi,No Junction,141,Pulikeshinagar(F.Town),No Junction,0.974,High
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",122,Wilson Garden,No Junction,0.978,High
+122,Wilson Garden,No Junction,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",0.978,High
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,133,Basavanagudi,No Junction,0.987,High
+133,Basavanagudi,No Junction,206,V.V.Puram (C.Pet),BTP107 - National College Junction,0.987,High
+37,HSR Layout,No Junction,67,HSR Layout,No Junction,0.991,High
+67,HSR Layout,No Junction,37,HSR Layout,No Junction,0.991,High
+210,Adugodi,No Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,0.992,High
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,210,Adugodi,No Junction,0.992,High
+163,Wilson Garden,No Junction,122,Wilson Garden,No Junction,1.001,Medium
+122,Wilson Garden,No Junction,163,Wilson Garden,No Junction,1.001,Medium
+59,Mahadevapura,No Junction,20,Mahadevapura,No Junction,1.002,Medium
+20,Mahadevapura,No Junction,59,Mahadevapura,No Junction,1.002,Medium
+50,Mico Layout,No Junction,70,Adugodi,BTP135 - UCO Bank Junction,1.003,Medium
+70,Adugodi,BTP135 - UCO Bank Junction,50,Mico Layout,No Junction,1.003,Medium
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",122,Wilson Garden,No Junction,1.014,Medium
+122,Wilson Garden,No Junction,99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.014,Medium
+210,Adugodi,No Junction,81,Adugodi,No Junction,1.016,Medium
+81,Adugodi,No Junction,210,Adugodi,No Junction,1.016,Medium
+174,Banaswadi,No Junction,59,Mahadevapura,No Junction,1.021,Medium
+59,Mahadevapura,No Junction,174,Banaswadi,No Junction,1.021,Medium
+182,J.P. Nagar,BTP222 - Delmia Circle,87,Mico Layout,BTP130 - GD Mara Junction,1.024,Medium
+87,Mico Layout,BTP130 - GD Mara Junction,182,J.P. Nagar,BTP222 - Delmia Circle,1.024,Medium
+108,HSR Layout,No Junction,11,HSR Layout,No Junction,1.037,Medium
+11,HSR Layout,No Junction,108,HSR Layout,No Junction,1.037,Medium
+108,HSR Layout,No Junction,27,HSR Layout,No Junction,1.039,Medium
+27,HSR Layout,No Junction,108,HSR Layout,No Junction,1.039,Medium
+87,Mico Layout,BTP130 - GD Mara Junction,162,J.P. Nagar,No Junction,1.042,Medium
+162,J.P. Nagar,No Junction,87,Mico Layout,BTP130 - GD Mara Junction,1.042,Medium
+196,HAL Old Airport,No Junction,136,Whitefield,No Junction,1.052,Medium
+136,Whitefield,No Junction,196,HAL Old Airport,No Junction,1.052,Medium
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",1.063,Medium
+64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",221,Banashankari,"BTP114 - KR Road Junction, Near JSS",1.063,Medium
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",1.066,Medium
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.066,Medium
+92,Chikkabanavara,No Junction,12,Peenya,No Junction,1.068,Medium
+12,Peenya,No Junction,92,Chikkabanavara,No Junction,1.068,Medium
+190,Banashankari,No Junction,195,Byatarayanapura,No Junction,1.069,Medium
+195,Byatarayanapura,No Junction,190,Banashankari,No Junction,1.069,Medium
+5,K.R. Pura,No Junction,14,K.R. Pura,No Junction,1.077,Medium
+14,K.R. Pura,No Junction,5,K.R. Pura,No Junction,1.077,Medium
+145,Rajajinagar,No Junction,103,Rajajinagar,No Junction,1.081,Medium
+103,Rajajinagar,No Junction,145,Rajajinagar,No Junction,1.081,Medium
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",50,Mico Layout,No Junction,1.082,Medium
+50,Mico Layout,No Junction,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.082,Medium
+140,Banaswadi,No Junction,117,Jeevanbheemanagar,No Junction,1.083,Medium
+117,Jeevanbheemanagar,No Junction,140,Banaswadi,No Junction,1.083,Medium
+60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,195,Byatarayanapura,No Junction,1.085,Medium
+195,Byatarayanapura,No Junction,60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,1.085,Medium
+71,Kamakshipalya,No Junction,55,Vijayanagara,BTP208 - Havanur Circle,1.085,Medium
+55,Vijayanagara,BTP208 - Havanur Circle,71,Kamakshipalya,No Junction,1.085,Medium
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.086,Medium
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.086,Medium
+69,Yeshwanthpura,No Junction,143,Rajajinagar,No Junction,1.097,Medium
+143,Rajajinagar,No Junction,69,Yeshwanthpura,No Junction,1.097,Medium
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",151,Ashok Nagar,BTP132 - Anepalya Junction,1.099,Medium
+151,Ashok Nagar,BTP132 - Anepalya Junction,99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.099,Medium
+1,Byatarayanapura,No Junction,107,Byatarayanapura,No Junction,1.101,Medium
+107,Byatarayanapura,No Junction,1,Byatarayanapura,No Junction,1.101,Medium
+137,Kamakshipalya,No Junction,71,Kamakshipalya,No Junction,1.102,Medium
+42,Banaswadi,No Junction,174,Banaswadi,No Junction,1.102,Medium
+71,Kamakshipalya,No Junction,137,Kamakshipalya,No Junction,1.102,Medium
+174,Banaswadi,No Junction,42,Banaswadi,No Junction,1.102,Medium
+149,Jalahalli,No Junction,148,Jalahalli,No Junction,1.115,Medium
+148,Jalahalli,No Junction,149,Jalahalli,No Junction,1.115,Medium
+84,HAL Old Airport,No Junction,196,HAL Old Airport,No Junction,1.117,Medium
+196,HAL Old Airport,No Junction,84,HAL Old Airport,No Junction,1.117,Medium
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,213,Chamarajpet,BTP085 - Briyand Circle,1.118,Medium
+213,Chamarajpet,BTP085 - Briyand Circle,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.118,Medium
+10,High ground,No Junction,168,Cubbon Park,BTP052 - CID Carlton House Junction,1.119,Medium
+168,Cubbon Park,BTP052 - CID Carlton House Junction,10,High ground,No Junction,1.119,Medium
+153,Byatarayanapura,No Junction,195,Byatarayanapura,No Junction,1.125,Medium
+195,Byatarayanapura,No Junction,153,Byatarayanapura,No Junction,1.125,Medium
+147,Jalahalli,No Junction,164,Jalahalli,No Junction,1.126,Medium
+164,Jalahalli,No Junction,147,Jalahalli,No Junction,1.126,Medium
+216,Banaswadi,No Junction,42,Banaswadi,No Junction,1.126,Medium
+42,Banaswadi,No Junction,216,Banaswadi,No Junction,1.126,Medium
+100,Jalahalli,No Junction,149,Jalahalli,No Junction,1.131,Medium
+149,Jalahalli,No Junction,100,Jalahalli,No Junction,1.131,Medium
+89,Peenya,No Junction,92,Chikkabanavara,No Junction,1.135,Medium
+92,Chikkabanavara,No Junction,89,Peenya,No Junction,1.135,Medium
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.137,Medium
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.137,Medium
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",87,Mico Layout,BTP130 - GD Mara Junction,1.141,Medium
+87,Mico Layout,BTP130 - GD Mara Junction,135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.141,Medium
+188,Magadi Road,BTP074 - Leprosy Hospital Junction,213,Chamarajpet,BTP085 - Briyand Circle,1.143,Medium
+213,Chamarajpet,BTP085 - Briyand Circle,188,Magadi Road,BTP074 - Leprosy Hospital Junction,1.143,Medium
+14,K.R. Pura,No Junction,20,Mahadevapura,No Junction,1.144,Medium
+20,Mahadevapura,No Junction,14,K.R. Pura,No Junction,1.144,Medium
+85,Ashok Nagar,BTP172 - Nanjappa Circle,54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",1.151,Medium
+90,Sadashivanagar,No Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.151,Medium
+41,Sheshadripuram,BTP032 - Windsor Circle,90,Sadashivanagar,No Junction,1.151,Medium
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",85,Ashok Nagar,BTP172 - Nanjappa Circle,1.151,Medium
+70,Adugodi,BTP135 - UCO Bank Junction,39,Mico Layout,BTP126 - Dairy Circle,1.153,Medium
+39,Mico Layout,BTP126 - Dairy Circle,70,Adugodi,BTP135 - UCO Bank Junction,1.153,Medium
+122,Wilson Garden,No Junction,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.157,Medium
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,122,Wilson Garden,No Junction,1.157,Medium
+27,HSR Layout,No Junction,56,HSR Layout,No Junction,1.159,Medium
+56,HSR Layout,No Junction,27,HSR Layout,No Junction,1.159,Medium
+203,R.T. Nagar,No Junction,16,High ground,BTP032 - Windsor Circle,1.176,Medium
+164,Jalahalli,No Junction,149,Jalahalli,No Junction,1.176,Medium
+16,High ground,BTP032 - Windsor Circle,203,R.T. Nagar,No Junction,1.176,Medium
+149,Jalahalli,No Junction,164,Jalahalli,No Junction,1.176,Medium
+155,Peenya,No Junction,184,Chikkabanavara,No Junction,1.178,Medium
+184,Chikkabanavara,No Junction,155,Peenya,No Junction,1.178,Medium
+153,Byatarayanapura,No Junction,88,Byatarayanapura,No Junction,1.179,Medium
+88,Byatarayanapura,No Junction,153,Byatarayanapura,No Junction,1.179,Medium
+63,Sadashivanagar,No Junction,48,R.T. Nagar,No Junction,1.183,Medium
+48,R.T. Nagar,No Junction,63,Sadashivanagar,No Junction,1.183,Medium
+166,HSR Layout,No Junction,6,HSR Layout,No Junction,1.185,Medium
+6,HSR Layout,No Junction,166,HSR Layout,No Junction,1.185,Medium
+84,HAL Old Airport,No Junction,123,HAL Old Airport,No Junction,1.186,Medium
+123,HAL Old Airport,No Junction,84,HAL Old Airport,No Junction,1.186,Medium
+25,HAL Old Airport,No Junction,173,HAL Old Airport,No Junction,1.187,Medium
+173,HAL Old Airport,No Junction,25,HAL Old Airport,No Junction,1.187,Medium
+74,Basavanagudi,BTP108 - Tagore Park Junction,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.188,Medium
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,74,Basavanagudi,BTP108 - Tagore Park Junction,1.188,Medium
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,70,Adugodi,BTP135 - UCO Bank Junction,1.19,Medium
+70,Adugodi,BTP135 - UCO Bank Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.19,Medium
+139,Yelahanka,No Junction,83,Yelahanka,No Junction,1.192,Medium
+83,Yelahanka,No Junction,139,Yelahanka,No Junction,1.192,Medium
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.195,Medium
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.195,Medium
+142,Basavanagudi,BTP216 - Yediyur Junction,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.196,Medium
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,142,Basavanagudi,BTP216 - Yediyur Junction,1.196,Medium
+2,Upparpet,BTP082 - KR Market Junction,105,Chamarajpet,BTP085 - Briyand Circle,1.203,Medium
+105,Chamarajpet,BTP085 - Briyand Circle,2,Upparpet,BTP082 - KR Market Junction,1.203,Medium
+20,Mahadevapura,No Junction,77,Mahadevapura,No Junction,1.204,Medium
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",28,Mico Layout,No Junction,1.204,Medium
+77,Mahadevapura,No Junction,20,Mahadevapura,No Junction,1.204,Medium
+28,Mico Layout,No Junction,135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.204,Medium
+143,Rajajinagar,No Junction,145,Rajajinagar,No Junction,1.207,Medium
+145,Rajajinagar,No Junction,143,Rajajinagar,No Junction,1.207,Medium
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.21,Medium
+2,Upparpet,BTP082 - KR Market Junction,188,Magadi Road,BTP074 - Leprosy Hospital Junction,1.21,Medium
+188,Magadi Road,BTP074 - Leprosy Hospital Junction,2,Upparpet,BTP082 - KR Market Junction,1.21,Medium
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.21,Medium
+173,HAL Old Airport,No Junction,123,HAL Old Airport,No Junction,1.211,Medium
+123,HAL Old Airport,No Junction,173,HAL Old Airport,No Junction,1.211,Medium
+31,Bellandur,No Junction,102,Bellandur,No Junction,1.213,Medium
+102,Bellandur,No Junction,31,Bellandur,No Junction,1.213,Medium
+154,Hennuru,No Junction,78,K.G. Halli,No Junction,1.217,Medium
+78,K.G. Halli,No Junction,154,Hennuru,No Junction,1.217,Medium
+44,Kodigehalli,No Junction,159,Kodigehalli,No Junction,1.218,Medium
+159,Kodigehalli,No Junction,44,Kodigehalli,No Junction,1.218,Medium
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.219,Medium
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.219,Medium
+50,Mico Layout,No Junction,201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.223,Medium
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",50,Mico Layout,No Junction,1.223,Medium
+192,Whitefield,No Junction,51,Whitefield,No Junction,1.224,Medium
+51,Whitefield,No Junction,192,Whitefield,No Junction,1.224,Medium
+10,High ground,No Junction,203,R.T. Nagar,No Junction,1.236,Medium
+203,R.T. Nagar,No Junction,10,High ground,No Junction,1.236,Medium
+150,R.T. Nagar,No Junction,111,Sadashivanagar,BTP030 - Mekhri Circle,1.244,Medium
+111,Sadashivanagar,BTP030 - Mekhri Circle,150,R.T. Nagar,No Junction,1.244,Medium
+133,Basavanagudi,No Junction,142,Basavanagudi,BTP216 - Yediyur Junction,1.247,Medium
+142,Basavanagudi,BTP216 - Yediyur Junction,133,Basavanagudi,No Junction,1.247,Medium
+12,Peenya,No Junction,86,Chikkabanavara,No Junction,1.254,Medium
+184,Chikkabanavara,No Junction,86,Chikkabanavara,No Junction,1.254,Medium
+86,Chikkabanavara,No Junction,12,Peenya,No Junction,1.254,Medium
+86,Chikkabanavara,No Junction,184,Chikkabanavara,No Junction,1.254,Medium
+50,Mico Layout,No Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.255,Medium
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,50,Mico Layout,No Junction,1.255,Medium
+127,Yelahanka,No Junction,139,Yelahanka,No Junction,1.257,Medium
+139,Yelahanka,No Junction,127,Yelahanka,No Junction,1.257,Medium
+35,Hebbala,No Junction,48,R.T. Nagar,No Junction,1.261,Medium
+48,R.T. Nagar,No Junction,35,Hebbala,No Junction,1.261,Medium
+167,Adugodi,No Junction,70,Adugodi,BTP135 - UCO Bank Junction,1.268,Medium
+70,Adugodi,BTP135 - UCO Bank Junction,167,Adugodi,No Junction,1.268,Medium
+56,HSR Layout,No Junction,187,HSR Layout,No Junction,1.269,Medium
+187,HSR Layout,No Junction,56,HSR Layout,No Junction,1.269,Medium
+103,Rajajinagar,No Junction,143,Rajajinagar,No Junction,1.27,Medium
+143,Rajajinagar,No Junction,103,Rajajinagar,No Junction,1.27,Medium
+136,Whitefield,No Junction,84,HAL Old Airport,No Junction,1.273,Medium
+84,HAL Old Airport,No Junction,136,Whitefield,No Junction,1.273,Medium
+3,Shivajinagar,BTP051 - Safina Plaza Junction,120,Pulikeshinagar(F.Town),No Junction,1.276,Medium
+120,Pulikeshinagar(F.Town),No Junction,3,Shivajinagar,BTP051 - Safina Plaza Junction,1.276,Medium
+142,Basavanagudi,BTP216 - Yediyur Junction,206,V.V.Puram (C.Pet),BTP107 - National College Junction,1.282,Medium
+16,High ground,BTP032 - Windsor Circle,168,Cubbon Park,BTP052 - CID Carlton House Junction,1.282,Medium
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,142,Basavanagudi,BTP216 - Yediyur Junction,1.282,Medium
+168,Cubbon Park,BTP052 - CID Carlton House Junction,16,High ground,BTP032 - Windsor Circle,1.282,Medium
+57,K.S. Layout,No Junction,158,K.S. Layout,No Junction,1.285,Medium
+158,K.S. Layout,No Junction,57,K.S. Layout,No Junction,1.285,Medium
+213,Chamarajpet,BTP085 - Briyand Circle,146,Chamarajpet,BTP091 - Sirsi Circle,1.286,Medium
+146,Chamarajpet,BTP091 - Sirsi Circle,213,Chamarajpet,BTP085 - Briyand Circle,1.286,Medium
+142,Basavanagudi,BTP216 - Yediyur Junction,29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.289,Medium
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",142,Basavanagudi,BTP216 - Yediyur Junction,1.289,Medium
+6,HSR Layout,No Junction,27,HSR Layout,No Junction,1.29,Medium
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.29,Medium
+27,HSR Layout,No Junction,6,HSR Layout,No Junction,1.29,Medium
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",1.29,Medium
+64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.293,Medium
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",1.293,Medium
+39,Mico Layout,BTP126 - Dairy Circle,201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.295,Medium
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",39,Mico Layout,BTP126 - Dairy Circle,1.295,Medium
+200,Byatarayanapura,No Junction,195,Byatarayanapura,No Junction,1.296,Medium
+195,Byatarayanapura,No Junction,200,Byatarayanapura,No Junction,1.296,Medium
+182,J.P. Nagar,BTP222 - Delmia Circle,135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.303,Medium
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",182,J.P. Nagar,BTP222 - Delmia Circle,1.303,Medium
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",163,Wilson Garden,No Junction,1.309,Medium
+163,Wilson Garden,No Junction,201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.309,Medium
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.311,Medium
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",1.311,Medium
+163,Wilson Garden,No Junction,39,Mico Layout,BTP126 - Dairy Circle,1.316,Medium
+39,Mico Layout,BTP126 - Dairy Circle,163,Wilson Garden,No Junction,1.316,Medium
+30,Jeevanbheemanagar,No Junction,217,Halasur,No Junction,1.319,Medium
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,10,High ground,No Junction,1.319,Medium
+10,High ground,No Junction,114,Cubbon Park,BTP041 - Gopal Gowda Circle,1.319,Medium
+217,Halasur,No Junction,30,Jeevanbheemanagar,No Junction,1.319,Medium
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.327,Medium
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.327,Medium
+219,Madiwala,No Junction,67,HSR Layout,No Junction,1.327,Medium
+67,HSR Layout,No Junction,219,Madiwala,No Junction,1.327,Medium
+10,High ground,No Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.328,Medium
+41,Sheshadripuram,BTP032 - Windsor Circle,10,High ground,No Junction,1.328,Medium
+169,Mahadevapura,No Junction,193,Mahadevapura,No Junction,1.33,Medium
+193,Mahadevapura,No Junction,169,Mahadevapura,No Junction,1.33,Medium
+5,K.R. Pura,No Junction,77,Mahadevapura,No Junction,1.331,Medium
+77,Mahadevapura,No Junction,5,K.R. Pura,No Junction,1.331,Medium
+140,Banaswadi,No Junction,216,Banaswadi,No Junction,1.336,Medium
+100,Jalahalli,No Junction,164,Jalahalli,No Junction,1.336,Medium
+216,Banaswadi,No Junction,140,Banaswadi,No Junction,1.336,Medium
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.336,Medium
+164,Jalahalli,No Junction,100,Jalahalli,No Junction,1.336,Medium
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",1.336,Medium
+168,Cubbon Park,BTP052 - CID Carlton House Junction,2,Upparpet,BTP082 - KR Market Junction,1.338,Medium
+2,Upparpet,BTP082 - KR Market Junction,168,Cubbon Park,BTP052 - CID Carlton House Junction,1.338,Medium
+52,Jnanabharathi,No Junction,93,Jnanabharathi,No Junction,1.339,Medium
+93,Jnanabharathi,No Junction,52,Jnanabharathi,No Junction,1.339,Medium
+198,HAL Old Airport,No Junction,125,Jeevanbheemanagar,No Junction,1.343,Medium
+125,Jeevanbheemanagar,No Junction,198,HAL Old Airport,No Junction,1.343,Medium
+55,Vijayanagara,BTP208 - Havanur Circle,4,Vijayanagara,No Junction,1.347,Medium
+4,Vijayanagara,No Junction,55,Vijayanagara,BTP208 - Havanur Circle,1.347,Medium
+129,J.P. Nagar,No Junction,138,J.P. Nagar,No Junction,1.355,Medium
+138,J.P. Nagar,No Junction,129,J.P. Nagar,No Junction,1.355,Medium
+173,HAL Old Airport,No Junction,76,Mahadevapura,No Junction,1.356,Medium
+76,Mahadevapura,No Junction,173,HAL Old Airport,No Junction,1.356,Medium
+80,Hennuru,No Junction,118,Hennuru,No Junction,1.357,Medium
+118,Hennuru,No Junction,80,Hennuru,No Junction,1.357,Medium
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",163,Wilson Garden,No Junction,1.361,Medium
+140,Banaswadi,No Junction,30,Jeevanbheemanagar,No Junction,1.361,Medium
+163,Wilson Garden,No Junction,99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.361,Medium
+30,Jeevanbheemanagar,No Junction,140,Banaswadi,No Junction,1.361,Medium
+107,Byatarayanapura,No Junction,200,Byatarayanapura,No Junction,1.362,Medium
+200,Byatarayanapura,No Junction,107,Byatarayanapura,No Junction,1.362,Medium
+132,K.R. Pura,No Junction,169,Mahadevapura,No Junction,1.367,Medium
+169,Mahadevapura,No Junction,132,K.R. Pura,No Junction,1.367,Medium
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,210,Adugodi,No Junction,1.369,Medium
+210,Adugodi,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.369,Medium
+175,J.P. Nagar,No Junction,75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.376,Medium
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",175,J.P. Nagar,No Junction,1.376,Medium
+92,Chikkabanavara,No Junction,86,Chikkabanavara,No Junction,1.379,Medium
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.379,Medium
+86,Chikkabanavara,No Junction,92,Chikkabanavara,No Junction,1.379,Medium
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.379,Medium
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",39,Mico Layout,BTP126 - Dairy Circle,1.385,Medium
+85,Ashok Nagar,BTP172 - Nanjappa Circle,99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.385,Medium
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",85,Ashok Nagar,BTP172 - Nanjappa Circle,1.385,Medium
+39,Mico Layout,BTP126 - Dairy Circle,33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.385,Medium
+211,Pulikeshinagar(F.Town),No Junction,181,Banaswadi,No Junction,1.387,Medium
+181,Banaswadi,No Junction,211,Pulikeshinagar(F.Town),No Junction,1.387,Medium
+12,Peenya,No Junction,161,Peenya,No Junction,1.393,Medium
+161,Peenya,No Junction,12,Peenya,No Junction,1.393,Medium
+56,HSR Layout,No Junction,166,HSR Layout,No Junction,1.395,Medium
+166,HSR Layout,No Junction,56,HSR Layout,No Junction,1.395,Medium
+161,Peenya,No Junction,147,Jalahalli,No Junction,1.398,Medium
+147,Jalahalli,No Junction,161,Peenya,No Junction,1.398,Medium
+53,Kodigehalli,No Junction,134,Kodigehalli,No Junction,1.402,Medium
+125,Jeevanbheemanagar,No Junction,117,Jeevanbheemanagar,No Junction,1.402,Medium
+117,Jeevanbheemanagar,No Junction,125,Jeevanbheemanagar,No Junction,1.402,Medium
+134,Kodigehalli,No Junction,53,Kodigehalli,No Junction,1.402,Medium
+41,Sheshadripuram,BTP032 - Windsor Circle,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,1.404,Medium
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.404,Medium
+193,Mahadevapura,No Junction,123,HAL Old Airport,No Junction,1.408,Medium
+123,HAL Old Airport,No Junction,193,Mahadevapura,No Junction,1.408,Medium
+198,HAL Old Airport,No Junction,156,Jeevanbheemanagar,No Junction,1.409,Medium
+156,Jeevanbheemanagar,No Junction,198,HAL Old Airport,No Junction,1.409,Medium
+41,Sheshadripuram,BTP032 - Windsor Circle,203,R.T. Nagar,No Junction,1.411,Medium
+203,R.T. Nagar,No Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.411,Medium
+181,Banaswadi,No Junction,179,Banaswadi,No Junction,1.414,Medium
+44,Kodigehalli,No Junction,134,Kodigehalli,No Junction,1.414,Medium
+179,Banaswadi,No Junction,181,Banaswadi,No Junction,1.414,Medium
+134,Kodigehalli,No Junction,44,Kodigehalli,No Junction,1.414,Medium
+17,Banashankari,No Junction,153,Byatarayanapura,No Junction,1.418,Medium
+153,Byatarayanapura,No Junction,17,Banashankari,No Junction,1.418,Medium
+13,Jeevanbheemanagar,No Junction,125,Jeevanbheemanagar,No Junction,1.424,Medium
+125,Jeevanbheemanagar,No Junction,13,Jeevanbheemanagar,No Junction,1.424,Medium
+18,Mahadevapura,No Junction,5,K.R. Pura,No Junction,1.432,Medium
+5,K.R. Pura,No Junction,18,Mahadevapura,No Junction,1.432,Medium
+3,Shivajinagar,BTP051 - Safina Plaza Junction,26,Halasur,No Junction,1.435,Medium
+26,Halasur,No Junction,3,Shivajinagar,BTP051 - Safina Plaza Junction,1.435,Medium
+36,Rajajinagar,No Junction,69,Yeshwanthpura,No Junction,1.436,Medium
+69,Yeshwanthpura,No Junction,36,Rajajinagar,No Junction,1.436,Medium
+150,R.T. Nagar,No Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.443,Medium
+41,Sheshadripuram,BTP032 - Windsor Circle,150,R.T. Nagar,No Junction,1.443,Medium
+17,Banashankari,No Junction,195,Byatarayanapura,No Junction,1.455,Medium
+195,Byatarayanapura,No Junction,17,Banashankari,No Junction,1.455,Medium
+214,R.T. Nagar,BTP030 - Mekhri Circle,90,Sadashivanagar,No Junction,1.463,Medium
+90,Sadashivanagar,No Junction,214,R.T. Nagar,BTP030 - Mekhri Circle,1.463,Medium
+63,Sadashivanagar,No Junction,214,R.T. Nagar,BTP030 - Mekhri Circle,1.465,Medium
+214,R.T. Nagar,BTP030 - Mekhri Circle,63,Sadashivanagar,No Junction,1.465,Medium
+120,Pulikeshinagar(F.Town),No Junction,141,Pulikeshinagar(F.Town),No Junction,1.466,Medium
+141,Pulikeshinagar(F.Town),No Junction,120,Pulikeshinagar(F.Town),No Junction,1.466,Medium
+3,Shivajinagar,BTP051 - Safina Plaza Junction,47,Cubbon Park,BTP166 - Coffee Board Junction,1.468,Medium
+47,Cubbon Park,BTP166 - Coffee Board Junction,3,Shivajinagar,BTP051 - Safina Plaza Junction,1.468,Medium
+146,Chamarajpet,BTP091 - Sirsi Circle,105,Chamarajpet,BTP085 - Briyand Circle,1.476,Medium
+105,Chamarajpet,BTP085 - Briyand Circle,146,Chamarajpet,BTP091 - Sirsi Circle,1.476,Medium
+138,J.P. Nagar,No Junction,87,Mico Layout,BTP130 - GD Mara Junction,1.478,Medium
+87,Mico Layout,BTP130 - GD Mara Junction,138,J.P. Nagar,No Junction,1.478,Medium
+122,Wilson Garden,No Junction,142,Basavanagudi,BTP216 - Yediyur Junction,1.479,Medium
+142,Basavanagudi,BTP216 - Yediyur Junction,122,Wilson Garden,No Junction,1.479,Medium
+6,HSR Layout,No Junction,219,Madiwala,No Junction,1.485,Medium
+219,Madiwala,No Junction,6,HSR Layout,No Junction,1.485,Medium
+116,Kodigehalli,No Junction,53,Kodigehalli,No Junction,1.489,Medium
+37,HSR Layout,No Junction,166,HSR Layout,No Junction,1.489,Medium
+53,Kodigehalli,No Junction,116,Kodigehalli,No Junction,1.489,Medium
+166,HSR Layout,No Junction,37,HSR Layout,No Junction,1.489,Medium
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,133,Basavanagudi,No Junction,1.492,Medium
+133,Basavanagudi,No Junction,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.492,Medium
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",151,Ashok Nagar,BTP132 - Anepalya Junction,1.496,Medium
+151,Ashok Nagar,BTP132 - Anepalya Junction,33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.496,Medium
+175,J.P. Nagar,No Junction,72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.497,Medium
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",175,J.P. Nagar,No Junction,1.497,Medium
+41,Sheshadripuram,BTP032 - Windsor Circle,111,Sadashivanagar,BTP030 - Mekhri Circle,1.504,Low
+111,Sadashivanagar,BTP030 - Mekhri Circle,41,Sheshadripuram,BTP032 - Windsor Circle,1.504,Low
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.506,Low
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.506,Low
+73,Rajajinagar,No Junction,36,Rajajinagar,No Junction,1.509,Low
+36,Rajajinagar,No Junction,73,Rajajinagar,No Junction,1.509,Low
+177,Bellandur,No Junction,56,HSR Layout,No Junction,1.512,Low
+56,HSR Layout,No Junction,177,Bellandur,No Junction,1.512,Low
+144,Bellandur,No Junction,8,Bellandur,No Junction,1.515,Low
+8,Bellandur,No Junction,144,Bellandur,No Junction,1.515,Low
+85,Ashok Nagar,BTP172 - Nanjappa Circle,151,Ashok Nagar,BTP132 - Anepalya Junction,1.519,Low
+151,Ashok Nagar,BTP132 - Anepalya Junction,85,Ashok Nagar,BTP172 - Nanjappa Circle,1.519,Low
+182,J.P. Nagar,BTP222 - Delmia Circle,138,J.P. Nagar,No Junction,1.519,Low
+138,J.P. Nagar,No Junction,182,J.P. Nagar,BTP222 - Delmia Circle,1.519,Low
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,2,Upparpet,BTP082 - KR Market Junction,1.52,Low
+2,Upparpet,BTP082 - KR Market Junction,114,Cubbon Park,BTP041 - Gopal Gowda Circle,1.52,Low
+16,High ground,BTP032 - Windsor Circle,150,R.T. Nagar,No Junction,1.521,Low
+150,R.T. Nagar,No Junction,16,High ground,BTP032 - Windsor Circle,1.521,Low
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",66,K.S. Layout,No Junction,1.524,Low
+66,K.S. Layout,No Junction,72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.524,Low
+213,Chamarajpet,BTP085 - Briyand Circle,2,Upparpet,BTP082 - KR Market Junction,1.525,Low
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.525,Low
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",1.525,Low
+2,Upparpet,BTP082 - KR Market Junction,213,Chamarajpet,BTP085 - Briyand Circle,1.525,Low
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.528,Low
+147,Jalahalli,No Junction,155,Peenya,No Junction,1.528,Low
+155,Peenya,No Junction,147,Jalahalli,No Junction,1.528,Low
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.528,Low
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",162,J.P. Nagar,No Junction,1.532,Low
+162,J.P. Nagar,No Junction,75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.532,Low
+150,R.T. Nagar,No Junction,90,Sadashivanagar,No Junction,1.535,Low
+90,Sadashivanagar,No Junction,150,R.T. Nagar,No Junction,1.535,Low
+13,Jeevanbheemanagar,No Junction,156,Jeevanbheemanagar,No Junction,1.535,Low
+156,Jeevanbheemanagar,No Junction,13,Jeevanbheemanagar,No Junction,1.535,Low
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",163,Wilson Garden,No Junction,1.539,Low
+163,Wilson Garden,No Junction,29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.539,Low
+74,Basavanagudi,BTP108 - Tagore Park Junction,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.54,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",74,Basavanagudi,BTP108 - Tagore Park Junction,1.54,Low
+14,K.R. Pura,No Junction,18,Mahadevapura,No Junction,1.545,Low
+18,Mahadevapura,No Junction,14,K.R. Pura,No Junction,1.545,Low
+76,Mahadevapura,No Junction,193,Mahadevapura,No Junction,1.546,Low
+179,Banaswadi,No Junction,141,Pulikeshinagar(F.Town),No Junction,1.546,Low
+141,Pulikeshinagar(F.Town),No Junction,179,Banaswadi,No Junction,1.546,Low
+193,Mahadevapura,No Junction,76,Mahadevapura,No Junction,1.546,Low
+159,Kodigehalli,No Junction,35,Hebbala,No Junction,1.553,Low
+35,Hebbala,No Junction,159,Kodigehalli,No Junction,1.553,Low
+133,Basavanagudi,No Junction,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.559,Low
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,133,Basavanagudi,No Junction,1.559,Low
+108,HSR Layout,No Junction,187,HSR Layout,No Junction,1.56,Low
+187,HSR Layout,No Junction,108,HSR Layout,No Junction,1.56,Low
+81,Adugodi,No Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.565,Low
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,81,Adugodi,No Junction,1.565,Low
+38,R.T. Nagar,No Junction,111,Sadashivanagar,BTP030 - Mekhri Circle,1.57,Low
+111,Sadashivanagar,BTP030 - Mekhri Circle,38,R.T. Nagar,No Junction,1.57,Low
+89,Peenya,No Junction,155,Peenya,No Junction,1.572,Low
+155,Peenya,No Junction,89,Peenya,No Junction,1.572,Low
+175,J.P. Nagar,No Junction,138,J.P. Nagar,No Junction,1.574,Low
+174,Banaswadi,No Junction,20,Mahadevapura,No Junction,1.574,Low
+138,J.P. Nagar,No Junction,175,J.P. Nagar,No Junction,1.574,Low
+20,Mahadevapura,No Junction,174,Banaswadi,No Junction,1.574,Low
+107,Byatarayanapura,No Junction,195,Byatarayanapura,No Junction,1.575,Low
+195,Byatarayanapura,No Junction,107,Byatarayanapura,No Junction,1.575,Low
+105,Chamarajpet,BTP085 - Briyand Circle,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.577,Low
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,105,Chamarajpet,BTP085 - Briyand Circle,1.577,Low
+140,Banaswadi,No Junction,156,Jeevanbheemanagar,No Junction,1.579,Low
+156,Jeevanbheemanagar,No Junction,140,Banaswadi,No Junction,1.579,Low
+220,Kamakshipalya,No Junction,24,Peenya,No Junction,1.58,Low
+24,Peenya,No Junction,220,Kamakshipalya,No Junction,1.58,Low
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",1.581,Low
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",1.581,Low
+38,R.T. Nagar,No Junction,35,Hebbala,No Junction,1.582,Low
+35,Hebbala,No Junction,38,R.T. Nagar,No Junction,1.582,Low
+81,Adugodi,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.584,Low
+157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,55,Vijayanagara,BTP208 - Havanur Circle,1.584,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,81,Adugodi,No Junction,1.584,Low
+55,Vijayanagara,BTP208 - Havanur Circle,157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,1.584,Low
+142,Basavanagudi,BTP216 - Yediyur Junction,163,Wilson Garden,No Junction,1.585,Low
+13,Jeevanbheemanagar,No Junction,30,Jeevanbheemanagar,No Junction,1.585,Low
+163,Wilson Garden,No Junction,142,Basavanagudi,BTP216 - Yediyur Junction,1.585,Low
+30,Jeevanbheemanagar,No Junction,13,Jeevanbheemanagar,No Junction,1.585,Low
+48,R.T. Nagar,No Junction,111,Sadashivanagar,BTP030 - Mekhri Circle,1.588,Low
+111,Sadashivanagar,BTP030 - Mekhri Circle,48,R.T. Nagar,No Junction,1.588,Low
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.59,Low
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.59,Low
+173,HAL Old Airport,No Junction,196,HAL Old Airport,No Junction,1.593,Low
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",142,Basavanagudi,BTP216 - Yediyur Junction,1.593,Low
+196,HAL Old Airport,No Junction,173,HAL Old Airport,No Junction,1.593,Low
+142,Basavanagudi,BTP216 - Yediyur Junction,221,Banashankari,"BTP114 - KR Road Junction, Near JSS",1.593,Low
+222,Electronic City,No Junction,15,Electronic City,No Junction,1.597,Low
+15,Electronic City,No Junction,222,Electronic City,No Junction,1.597,Low
+67,HSR Layout,No Junction,56,HSR Layout,No Junction,1.603,Low
+56,HSR Layout,No Junction,67,HSR Layout,No Junction,1.603,Low
+26,Halasur,No Junction,120,Pulikeshinagar(F.Town),No Junction,1.604,Low
+120,Pulikeshinagar(F.Town),No Junction,26,Halasur,No Junction,1.604,Low
+164,Jalahalli,No Junction,170,Jalahalli,No Junction,1.609,Low
+170,Jalahalli,No Junction,164,Jalahalli,No Junction,1.609,Low
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,16,High ground,BTP032 - Windsor Circle,1.61,Low
+16,High ground,BTP032 - Windsor Circle,114,Cubbon Park,BTP041 - Gopal Gowda Circle,1.61,Low
+8,Bellandur,No Junction,102,Bellandur,No Junction,1.611,Low
+102,Bellandur,No Junction,8,Bellandur,No Junction,1.611,Low
+217,Halasur,No Junction,13,Jeevanbheemanagar,No Junction,1.618,Low
+13,Jeevanbheemanagar,No Junction,217,Halasur,No Junction,1.618,Low
+167,Adugodi,No Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.627,Low
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,167,Adugodi,No Junction,1.627,Low
+202,Mahadevapura,No Junction,173,HAL Old Airport,No Junction,1.634,Low
+173,HAL Old Airport,No Junction,202,Mahadevapura,No Junction,1.634,Low
+136,Whitefield,No Junction,197,Whitefield,No Junction,1.636,Low
+197,Whitefield,No Junction,136,Whitefield,No Junction,1.636,Low
+155,Peenya,No Junction,92,Chikkabanavara,No Junction,1.639,Low
+161,Peenya,No Junction,184,Chikkabanavara,No Junction,1.639,Low
+92,Chikkabanavara,No Junction,155,Peenya,No Junction,1.639,Low
+184,Chikkabanavara,No Junction,161,Peenya,No Junction,1.639,Low
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",39,Mico Layout,BTP126 - Dairy Circle,1.642,Low
+39,Mico Layout,BTP126 - Dairy Circle,99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.642,Low
+103,Rajajinagar,No Junction,36,Rajajinagar,No Junction,1.643,Low
+131,Adugodi,No Junction,81,Adugodi,No Junction,1.643,Low
+115,Yeshwanthpura,No Junction,95,Yeshwanthpura,No Junction,1.643,Low
+81,Adugodi,No Junction,131,Adugodi,No Junction,1.643,Low
+36,Rajajinagar,No Junction,103,Rajajinagar,No Junction,1.643,Low
+95,Yeshwanthpura,No Junction,115,Yeshwanthpura,No Junction,1.643,Low
+35,Hebbala,No Junction,116,Kodigehalli,No Junction,1.647,Low
+116,Kodigehalli,No Junction,35,Hebbala,No Junction,1.647,Low
+32,Kodigehalli,No Junction,46,Kodigehalli,No Junction,1.648,Low
+46,Kodigehalli,No Junction,32,Kodigehalli,No Junction,1.648,Low
+8,Bellandur,No Junction,177,Bellandur,No Junction,1.649,Low
+177,Bellandur,No Junction,8,Bellandur,No Junction,1.649,Low
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.65,Low
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.65,Low
+64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",1.652,Low
+184,Chikkabanavara,No Junction,58,Jalahalli,No Junction,1.652,Low
+58,Jalahalli,No Junction,184,Chikkabanavara,No Junction,1.652,Low
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",1.652,Low
+217,Halasur,No Junction,26,Halasur,No Junction,1.657,Low
+26,Halasur,No Junction,217,Halasur,No Junction,1.657,Low
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,146,Chamarajpet,BTP091 - Sirsi Circle,1.658,Low
+146,Chamarajpet,BTP091 - Sirsi Circle,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.658,Low
+58,Jalahalli,No Junction,12,Peenya,No Junction,1.661,Low
+12,Peenya,No Junction,58,Jalahalli,No Junction,1.661,Low
+117,Jeevanbheemanagar,No Junction,13,Jeevanbheemanagar,No Junction,1.665,Low
+65,K.R. Pura,No Junction,205,K.R. Pura,No Junction,1.665,Low
+13,Jeevanbheemanagar,No Junction,117,Jeevanbheemanagar,No Junction,1.665,Low
+205,K.R. Pura,No Junction,65,K.R. Pura,No Junction,1.665,Low
+210,Adugodi,No Junction,50,Mico Layout,No Junction,1.667,Low
+50,Mico Layout,No Junction,210,Adugodi,No Junction,1.667,Low
+179,Banaswadi,No Junction,82,Banaswadi,No Junction,1.668,Low
+82,Banaswadi,No Junction,179,Banaswadi,No Junction,1.668,Low
+37,HSR Layout,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.67,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,37,HSR Layout,No Junction,1.67,Low
+87,Mico Layout,BTP130 - GD Mara Junction,189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",1.672,Low
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",87,Mico Layout,BTP130 - GD Mara Junction,1.672,Low
+220,Kamakshipalya,No Junction,98,Kamakshipalya,No Junction,1.673,Low
+98,Kamakshipalya,No Junction,220,Kamakshipalya,No Junction,1.673,Low
+56,HSR Layout,No Junction,6,HSR Layout,No Junction,1.676,Low
+6,HSR Layout,No Junction,56,HSR Layout,No Junction,1.676,Low
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,2,Upparpet,BTP082 - KR Market Junction,1.679,Low
+2,Upparpet,BTP082 - KR Market Junction,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,1.679,Low
+93,Jnanabharathi,No Junction,200,Byatarayanapura,No Junction,1.687,Low
+200,Byatarayanapura,No Junction,93,Jnanabharathi,No Junction,1.687,Low
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.689,Low
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.689,Low
+58,Jalahalli,No Junction,164,Jalahalli,No Junction,1.69,Low
+164,Jalahalli,No Junction,58,Jalahalli,No Junction,1.69,Low
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.695,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",206,V.V.Puram (C.Pet),BTP107 - National College Junction,1.695,Low
+102,Bellandur,No Junction,62,Bellandur,No Junction,1.696,Low
+62,Bellandur,No Junction,102,Bellandur,No Junction,1.696,Low
+87,Mico Layout,BTP130 - GD Mara Junction,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.702,Low
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",87,Mico Layout,BTP130 - GD Mara Junction,1.702,Low
+183,Whitefield,No Junction,185,Whitefield,No Junction,1.702,Low
+185,Whitefield,No Junction,183,Whitefield,No Junction,1.702,Low
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",87,Mico Layout,BTP130 - GD Mara Junction,1.705,Low
+87,Mico Layout,BTP130 - GD Mara Junction,75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.705,Low
+157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,107,Byatarayanapura,No Junction,1.708,Low
+203,R.T. Nagar,No Junction,47,Cubbon Park,BTP166 - Coffee Board Junction,1.708,Low
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",1.708,Low
+75,J.P. Nagar,"BTP197 - 9th Cross, 24th Main, JP Nagar",221,Banashankari,"BTP114 - KR Road Junction, Near JSS",1.708,Low
+37,HSR Layout,No Junction,108,HSR Layout,No Junction,1.708,Low
+107,Byatarayanapura,No Junction,157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,1.708,Low
+47,Cubbon Park,BTP166 - Coffee Board Junction,203,R.T. Nagar,No Junction,1.708,Low
+108,HSR Layout,No Junction,37,HSR Layout,No Junction,1.708,Low
+165,Whitefield,No Junction,84,HAL Old Airport,No Junction,1.71,Low
+84,HAL Old Airport,No Junction,165,Whitefield,No Junction,1.71,Low
+10,High ground,No Junction,3,Shivajinagar,BTP051 - Safina Plaza Junction,1.713,Low
+3,Shivajinagar,BTP051 - Safina Plaza Junction,10,High ground,No Junction,1.713,Low
+216,Banaswadi,No Junction,174,Banaswadi,No Junction,1.717,Low
+174,Banaswadi,No Junction,216,Banaswadi,No Junction,1.717,Low
+39,Mico Layout,BTP126 - Dairy Circle,151,Ashok Nagar,BTP132 - Anepalya Junction,1.721,Low
+151,Ashok Nagar,BTP132 - Anepalya Junction,39,Mico Layout,BTP126 - Dairy Circle,1.721,Low
+159,Kodigehalli,No Junction,48,R.T. Nagar,No Junction,1.722,Low
+48,R.T. Nagar,No Junction,159,Kodigehalli,No Junction,1.722,Low
+166,HSR Layout,No Junction,219,Madiwala,No Junction,1.724,Low
+219,Madiwala,No Junction,166,HSR Layout,No Junction,1.724,Low
+10,High ground,No Junction,150,R.T. Nagar,No Junction,1.728,Low
+150,R.T. Nagar,No Junction,10,High ground,No Junction,1.728,Low
+84,HAL Old Airport,No Junction,197,Whitefield,No Junction,1.729,Low
+197,Whitefield,No Junction,84,HAL Old Airport,No Junction,1.729,Low
+20,Mahadevapura,No Junction,42,Banaswadi,No Junction,1.73,Low
+42,Banaswadi,No Junction,20,Mahadevapura,No Junction,1.73,Low
+169,Mahadevapura,No Junction,202,Mahadevapura,No Junction,1.734,Low
+27,HSR Layout,No Junction,67,HSR Layout,No Junction,1.734,Low
+67,HSR Layout,No Junction,27,HSR Layout,No Junction,1.734,Low
+202,Mahadevapura,No Junction,169,Mahadevapura,No Junction,1.734,Low
+151,Ashok Nagar,BTP132 - Anepalya Junction,54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",1.741,Low
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",151,Ashok Nagar,BTP132 - Anepalya Junction,1.741,Low
+88,Byatarayanapura,No Junction,200,Byatarayanapura,No Junction,1.742,Low
+50,Mico Layout,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.742,Low
+200,Byatarayanapura,No Junction,88,Byatarayanapura,No Junction,1.742,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,50,Mico Layout,No Junction,1.742,Low
+163,Wilson Garden,No Junction,54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",1.743,Low
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",163,Wilson Garden,No Junction,1.743,Low
+111,Sadashivanagar,BTP030 - Mekhri Circle,203,R.T. Nagar,No Junction,1.744,Low
+70,Adugodi,BTP135 - UCO Bank Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.744,Low
+203,R.T. Nagar,No Junction,111,Sadashivanagar,BTP030 - Mekhri Circle,1.744,Low
+202,Mahadevapura,No Junction,84,HAL Old Airport,No Junction,1.744,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,70,Adugodi,BTP135 - UCO Bank Junction,1.744,Low
+84,HAL Old Airport,No Junction,202,Mahadevapura,No Junction,1.744,Low
+213,Chamarajpet,BTP085 - Briyand Circle,206,V.V.Puram (C.Pet),BTP107 - National College Junction,1.745,Low
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,213,Chamarajpet,BTP085 - Briyand Circle,1.745,Low
+107,Byatarayanapura,No Junction,60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,1.748,Low
+60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,107,Byatarayanapura,No Junction,1.748,Low
+41,Sheshadripuram,BTP032 - Windsor Circle,47,Cubbon Park,BTP166 - Coffee Board Junction,1.752,Low
+47,Cubbon Park,BTP166 - Coffee Board Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.752,Low
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",162,J.P. Nagar,No Junction,1.753,Low
+162,J.P. Nagar,No Junction,135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.753,Low
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.754,Low
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",1.754,Low
+196,HAL Old Airport,No Junction,123,HAL Old Airport,No Junction,1.757,Low
+123,HAL Old Airport,No Junction,196,HAL Old Airport,No Junction,1.757,Low
+88,Byatarayanapura,No Junction,190,Banashankari,No Junction,1.758,Low
+190,Banashankari,No Junction,88,Byatarayanapura,No Junction,1.758,Low
+200,Byatarayanapura,No Junction,190,Banashankari,No Junction,1.761,Low
+190,Banashankari,No Junction,200,Byatarayanapura,No Junction,1.761,Low
+11,HSR Layout,No Junction,6,HSR Layout,No Junction,1.763,Low
+6,HSR Layout,No Junction,11,HSR Layout,No Junction,1.763,Low
+46,Kodigehalli,No Junction,134,Kodigehalli,No Junction,1.763,Low
+134,Kodigehalli,No Junction,46,Kodigehalli,No Junction,1.763,Low
+64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.764,Low
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",64,Jayanagara,"BTP115 - Sahasra Hospital, Jayanagar",1.764,Low
+146,Chamarajpet,BTP091 - Sirsi Circle,188,Magadi Road,BTP074 - Leprosy Hospital Junction,1.765,Low
+188,Magadi Road,BTP074 - Leprosy Hospital Junction,146,Chamarajpet,BTP091 - Sirsi Circle,1.765,Low
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,122,Wilson Garden,No Junction,1.767,Low
+122,Wilson Garden,No Junction,206,V.V.Puram (C.Pet),BTP107 - National College Junction,1.767,Low
+50,Mico Layout,No Junction,28,Mico Layout,No Junction,1.774,Low
+28,Mico Layout,No Junction,50,Mico Layout,No Junction,1.774,Low
+35,Hebbala,No Junction,63,Sadashivanagar,No Junction,1.78,Low
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",70,Adugodi,BTP135 - UCO Bank Junction,1.78,Low
+70,Adugodi,BTP135 - UCO Bank Junction,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.78,Low
+63,Sadashivanagar,No Junction,35,Hebbala,No Junction,1.78,Low
+134,Kodigehalli,No Junction,32,Kodigehalli,No Junction,1.785,Low
+32,Kodigehalli,No Junction,134,Kodigehalli,No Junction,1.785,Low
+19,Hulimavu,No Junction,166,HSR Layout,No Junction,1.787,Low
+166,HSR Layout,No Junction,19,Hulimavu,No Junction,1.787,Low
+25,HAL Old Airport,No Junction,84,HAL Old Airport,No Junction,1.788,Low
+84,HAL Old Airport,No Junction,25,HAL Old Airport,No Junction,1.788,Low
+214,R.T. Nagar,BTP030 - Mekhri Circle,150,R.T. Nagar,No Junction,1.789,Low
+150,R.T. Nagar,No Junction,214,R.T. Nagar,BTP030 - Mekhri Circle,1.789,Low
+78,K.G. Halli,No Junction,204,Hennuru,No Junction,1.79,Low
+204,Hennuru,No Junction,78,K.G. Halli,No Junction,1.79,Low
+34,Banashankari,BTP155 - Katriguppe Junction,17,Banashankari,No Junction,1.797,Low
+22,Kamakshipalya,No Junction,137,Kamakshipalya,No Junction,1.797,Low
+137,Kamakshipalya,No Junction,22,Kamakshipalya,No Junction,1.797,Low
+17,Banashankari,No Junction,34,Banashankari,BTP155 - Katriguppe Junction,1.797,Low
+137,Kamakshipalya,No Junction,157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,1.799,Low
+157,Vijayanagara,BTP214 - 5th Main Chamrajpet  Junction,137,Kamakshipalya,No Junction,1.799,Low
+93,Jnanabharathi,No Junction,107,Byatarayanapura,No Junction,1.805,Low
+107,Byatarayanapura,No Junction,93,Jnanabharathi,No Junction,1.805,Low
+177,Bellandur,No Junction,94,Bellandur,No Junction,1.813,Low
+94,Bellandur,No Junction,177,Bellandur,No Junction,1.813,Low
+131,Adugodi,No Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.814,Low
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,131,Adugodi,No Junction,1.814,Low
+152,K.S. Layout,No Junction,34,Banashankari,BTP155 - Katriguppe Junction,1.821,Low
+28,Mico Layout,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.821,Low
+87,Mico Layout,BTP130 - GD Mara Junction,175,J.P. Nagar,No Junction,1.821,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,28,Mico Layout,No Junction,1.821,Low
+175,J.P. Nagar,No Junction,87,Mico Layout,BTP130 - GD Mara Junction,1.821,Low
+34,Banashankari,BTP155 - Katriguppe Junction,152,K.S. Layout,No Junction,1.821,Low
+69,Yeshwanthpura,No Junction,145,Rajajinagar,No Junction,1.822,Low
+145,Rajajinagar,No Junction,69,Yeshwanthpura,No Junction,1.822,Low
+198,HAL Old Airport,No Junction,117,Jeevanbheemanagar,No Junction,1.828,Low
+150,R.T. Nagar,No Junction,38,R.T. Nagar,No Junction,1.828,Low
+182,J.P. Nagar,BTP222 - Delmia Circle,28,Mico Layout,No Junction,1.828,Low
+117,Jeevanbheemanagar,No Junction,198,HAL Old Airport,No Junction,1.828,Low
+38,R.T. Nagar,No Junction,150,R.T. Nagar,No Junction,1.828,Low
+28,Mico Layout,No Junction,182,J.P. Nagar,BTP222 - Delmia Circle,1.828,Low
+28,Mico Layout,No Junction,201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.831,Low
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",28,Mico Layout,No Junction,1.831,Low
+166,HSR Layout,No Junction,11,HSR Layout,No Junction,1.833,Low
+18,Mahadevapura,No Junction,76,Mahadevapura,No Junction,1.833,Low
+76,Mahadevapura,No Junction,18,Mahadevapura,No Junction,1.833,Low
+11,HSR Layout,No Junction,166,HSR Layout,No Junction,1.833,Low
+124,Kamakshipalya,No Junction,98,Kamakshipalya,No Junction,1.833,Low
+98,Kamakshipalya,No Junction,124,Kamakshipalya,No Junction,1.833,Low
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",1.834,Low
+29,Jayanagara,"BTP189 - New Diagonal Road, Jayanagar",135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.834,Low
+73,Rajajinagar,No Junction,103,Rajajinagar,No Junction,1.835,Low
+103,Rajajinagar,No Junction,73,Rajajinagar,No Junction,1.835,Low
+23,Electronic City,No Junction,101,Electronic City,No Junction,1.836,Low
+101,Electronic City,No Junction,23,Electronic City,No Junction,1.836,Low
+59,Mahadevapura,No Junction,216,Banaswadi,No Junction,1.839,Low
+216,Banaswadi,No Junction,59,Mahadevapura,No Junction,1.839,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,6,HSR Layout,No Junction,1.842,Low
+6,HSR Layout,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.842,Low
+84,HAL Old Airport,No Junction,173,HAL Old Airport,No Junction,1.844,Low
+173,HAL Old Airport,No Junction,84,HAL Old Airport,No Junction,1.844,Low
+27,HSR Layout,No Junction,81,Adugodi,No Junction,1.846,Low
+203,R.T. Nagar,No Junction,171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,1.846,Low
+171,High ground,BTP035 - Basaweshwara Circle (LH) Junction,203,R.T. Nagar,No Junction,1.846,Low
+81,Adugodi,No Junction,27,HSR Layout,No Junction,1.846,Low
+189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",138,J.P. Nagar,No Junction,1.847,Low
+138,J.P. Nagar,No Junction,189,J.P. Nagar,"BTP221 - 15th Cross, 24th Main, JP Nagar",1.847,Low
+1,Byatarayanapura,No Junction,153,Byatarayanapura,No Junction,1.848,Low
+153,Byatarayanapura,No Junction,1,Byatarayanapura,No Junction,1.848,Low
+140,Banaswadi,No Junction,13,Jeevanbheemanagar,No Junction,1.849,Low
+13,Jeevanbheemanagar,No Junction,140,Banaswadi,No Junction,1.849,Low
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,28,Mico Layout,No Junction,1.856,Low
+28,Mico Layout,No Junction,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.856,Low
+54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.857,Low
+99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.857,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",54,Wilson Garden,"BTP102 - BMTC Junction, KH Road",1.857,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",99,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.857,Low
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.858,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.858,Low
+159,Kodigehalli,No Junction,95,Yeshwanthpura,No Junction,1.859,Low
+95,Yeshwanthpura,No Junction,159,Kodigehalli,No Junction,1.859,Low
+136,Whitefield,No Junction,25,HAL Old Airport,No Junction,1.863,Low
+25,HAL Old Airport,No Junction,136,Whitefield,No Junction,1.863,Low
+18,Mahadevapura,No Junction,193,Mahadevapura,No Junction,1.865,Low
+193,Mahadevapura,No Junction,18,Mahadevapura,No Junction,1.865,Low
+140,Banaswadi,No Junction,42,Banaswadi,No Junction,1.869,Low
+42,Banaswadi,No Junction,140,Banaswadi,No Junction,1.869,Low
+41,Sheshadripuram,BTP032 - Windsor Circle,168,Cubbon Park,BTP052 - CID Carlton House Junction,1.87,Low
+168,Cubbon Park,BTP052 - CID Carlton House Junction,41,Sheshadripuram,BTP032 - Windsor Circle,1.87,Low
+103,Rajajinagar,No Junction,115,Yeshwanthpura,No Junction,1.872,Low
+115,Yeshwanthpura,No Junction,103,Rajajinagar,No Junction,1.872,Low
+27,HSR Layout,No Junction,166,HSR Layout,No Junction,1.88,Low
+166,HSR Layout,No Junction,27,HSR Layout,No Junction,1.88,Low
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,142,Basavanagudi,BTP216 - Yediyur Junction,1.881,Low
+142,Basavanagudi,BTP216 - Yediyur Junction,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.881,Low
+60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,146,Chamarajpet,BTP091 - Sirsi Circle,1.882,Low
+146,Chamarajpet,BTP091 - Sirsi Circle,60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,1.882,Low
+182,J.P. Nagar,BTP222 - Delmia Circle,126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",1.884,Low
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",182,J.P. Nagar,BTP222 - Delmia Circle,1.884,Low
+151,Ashok Nagar,BTP132 - Anepalya Junction,131,Adugodi,No Junction,1.886,Low
+131,Adugodi,No Junction,151,Ashok Nagar,BTP132 - Anepalya Junction,1.886,Low
+90,Sadashivanagar,No Junction,16,High ground,BTP032 - Windsor Circle,1.887,Low
+16,High ground,BTP032 - Windsor Circle,90,Sadashivanagar,No Junction,1.887,Low
+109,K.R. Pura,No Junction,68,K.R. Pura,No Junction,1.891,Low
+68,K.R. Pura,No Junction,109,K.R. Pura,No Junction,1.891,Low
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,3,Shivajinagar,BTP051 - Safina Plaza Junction,1.892,Low
+3,Shivajinagar,BTP051 - Safina Plaza Junction,114,Cubbon Park,BTP041 - Gopal Gowda Circle,1.892,Low
+183,Whitefield,No Junction,165,Whitefield,No Junction,1.892,Low
+165,Whitefield,No Junction,183,Whitefield,No Junction,1.892,Low
+92,Chikkabanavara,No Junction,58,Jalahalli,No Junction,1.893,Low
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.893,Low
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.893,Low
+58,Jalahalli,No Junction,92,Chikkabanavara,No Junction,1.893,Low
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.898,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",221,Banashankari,"BTP114 - KR Road Junction, Near JSS",1.898,Low
+203,R.T. Nagar,No Junction,90,Sadashivanagar,No Junction,1.898,Low
+90,Sadashivanagar,No Junction,203,R.T. Nagar,No Junction,1.898,Low
+81,Adugodi,No Junction,70,Adugodi,BTP135 - UCO Bank Junction,1.899,Low
+70,Adugodi,BTP135 - UCO Bank Junction,81,Adugodi,No Junction,1.899,Low
+85,Ashok Nagar,BTP172 - Nanjappa Circle,33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.9,Low
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",85,Ashok Nagar,BTP172 - Nanjappa Circle,1.9,Low
+149,Jalahalli,No Junction,147,Jalahalli,No Junction,1.901,Low
+147,Jalahalli,No Junction,149,Jalahalli,No Junction,1.901,Low
+202,Mahadevapura,No Junction,76,Mahadevapura,No Junction,1.905,Low
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",50,Mico Layout,No Junction,1.905,Low
+50,Mico Layout,No Junction,135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.905,Low
+76,Mahadevapura,No Junction,202,Mahadevapura,No Junction,1.905,Low
+214,R.T. Nagar,BTP030 - Mekhri Circle,35,Hebbala,No Junction,1.907,Low
+35,Hebbala,No Junction,214,R.T. Nagar,BTP030 - Mekhri Circle,1.907,Low
+131,Adugodi,No Junction,39,Mico Layout,BTP126 - Dairy Circle,1.91,Low
+39,Mico Layout,BTP126 - Dairy Circle,131,Adugodi,No Junction,1.91,Low
+98,Kamakshipalya,No Junction,22,Kamakshipalya,No Junction,1.911,Low
+22,Kamakshipalya,No Junction,98,Kamakshipalya,No Junction,1.911,Low
+116,Kodigehalli,No Junction,44,Kodigehalli,No Junction,1.912,Low
+44,Kodigehalli,No Junction,116,Kodigehalli,No Junction,1.912,Low
+74,Basavanagudi,BTP108 - Tagore Park Junction,122,Wilson Garden,No Junction,1.913,Low
+122,Wilson Garden,No Junction,74,Basavanagudi,BTP108 - Tagore Park Junction,1.913,Low
+67,HSR Layout,No Junction,11,HSR Layout,No Junction,1.914,Low
+11,HSR Layout,No Junction,67,HSR Layout,No Junction,1.914,Low
+110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",39,Mico Layout,BTP126 - Dairy Circle,1.916,Low
+39,Mico Layout,BTP126 - Dairy Circle,110,Mico Layout,"BTP163 - 16th Main Road, BTM Layout",1.916,Low
+40,Bellandur,No Junction,96,Whitefield,No Junction,1.917,Low
+96,Whitefield,No Junction,40,Bellandur,No Junction,1.917,Low
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,213,Chamarajpet,BTP085 - Briyand Circle,1.92,Low
+213,Chamarajpet,BTP085 - Briyand Circle,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.92,Low
+135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",1.923,Low
+126,Jayanagara,"BTP176 - Rajalakshmi Kalyana Mantapa, JP Nagar",135,Jayanagara,"BTP202 - East End Main Road, Jayanagar",1.923,Low
+147,Jalahalli,No Junction,184,Chikkabanavara,No Junction,1.926,Low
+184,Chikkabanavara,No Junction,147,Jalahalli,No Junction,1.926,Low
+45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",133,Basavanagudi,No Junction,1.927,Low
+133,Basavanagudi,No Junction,45,Wilson Garden,"BTP186 - 9th Cross, 4th Main, Jayanagar",1.927,Low
+172,HSR Layout,No Junction,166,HSR Layout,No Junction,1.93,Low
+166,HSR Layout,No Junction,172,HSR Layout,No Junction,1.93,Low
+193,Mahadevapura,No Junction,173,HAL Old Airport,No Junction,1.932,Low
+173,HAL Old Airport,No Junction,193,Mahadevapura,No Junction,1.932,Low
+162,J.P. Nagar,No Junction,28,Mico Layout,No Junction,1.933,Low
+28,Mico Layout,No Junction,162,J.P. Nagar,No Junction,1.933,Low
+36,Rajajinagar,No Junction,145,Rajajinagar,No Junction,1.935,Low
+145,Rajajinagar,No Junction,36,Rajajinagar,No Junction,1.935,Low
+123,HAL Old Airport,No Junction,25,HAL Old Airport,No Junction,1.935,Low
+25,HAL Old Airport,No Junction,123,HAL Old Airport,No Junction,1.935,Low
+163,Wilson Garden,No Junction,50,Mico Layout,No Junction,1.939,Low
+50,Mico Layout,No Junction,163,Wilson Garden,No Junction,1.939,Low
+63,Sadashivanagar,No Junction,95,Yeshwanthpura,No Junction,1.941,Low
+95,Yeshwanthpura,No Junction,63,Sadashivanagar,No Junction,1.941,Low
+190,Banashankari,No Junction,60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,1.942,Low
+60,Byatarayanapura,BTP096 - Gali Anjaneya Temple,190,Banashankari,No Junction,1.942,Low
+167,Adugodi,No Junction,113,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.947,Low
+185,Whitefield,No Junction,51,Whitefield,No Junction,1.947,Low
+51,Whitefield,No Junction,185,Whitefield,No Junction,1.947,Low
+113,Madiwala,BTP137 - Madiwala Traffic PS Junction,167,Adugodi,No Junction,1.947,Low
+215,V.V.Puram (C.Pet),BTP106 - VV Puram College,122,Wilson Garden,No Junction,1.948,Low
+163,Wilson Garden,No Junction,121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,1.948,Low
+121,V.V.Puram (C.Pet),BTP184 - Lalbagh West Gate,163,Wilson Garden,No Junction,1.948,Low
+122,Wilson Garden,No Junction,215,V.V.Puram (C.Pet),BTP106 - VV Puram College,1.948,Low
+172,HSR Layout,No Junction,19,Hulimavu,No Junction,1.949,Low
+19,Hulimavu,No Junction,172,HSR Layout,No Junction,1.949,Low
+50,Mico Layout,No Junction,131,Adugodi,No Junction,1.954,Low
+131,Adugodi,No Junction,50,Mico Layout,No Junction,1.954,Low
+216,Banaswadi,No Junction,30,Jeevanbheemanagar,No Junction,1.955,Low
+30,Jeevanbheemanagar,No Junction,216,Banaswadi,No Junction,1.955,Low
+76,Mahadevapura,No Junction,123,HAL Old Airport,No Junction,1.957,Low
+123,HAL Old Airport,No Junction,76,Mahadevapura,No Junction,1.957,Low
+112,Yelahanka,No Junction,127,Yelahanka,No Junction,1.959,Low
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",182,J.P. Nagar,BTP222 - Delmia Circle,1.959,Low
+127,Yelahanka,No Junction,112,Yelahanka,No Junction,1.959,Low
+182,J.P. Nagar,BTP222 - Delmia Circle,72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.959,Low
+44,Kodigehalli,No Junction,35,Hebbala,No Junction,1.962,Low
+35,Hebbala,No Junction,44,Kodigehalli,No Junction,1.962,Low
+158,K.S. Layout,No Junction,152,K.S. Layout,No Junction,1.964,Low
+152,K.S. Layout,No Junction,158,K.S. Layout,No Junction,1.964,Low
+1,Byatarayanapura,No Junction,195,Byatarayanapura,No Junction,1.966,Low
+195,Byatarayanapura,No Junction,1,Byatarayanapura,No Junction,1.966,Low
+62,Bellandur,No Junction,8,Bellandur,No Junction,1.967,Low
+8,Bellandur,No Junction,62,Bellandur,No Junction,1.967,Low
+52,Jnanabharathi,No Junction,22,Kamakshipalya,No Junction,1.97,Low
+22,Kamakshipalya,No Junction,52,Jnanabharathi,No Junction,1.97,Low
+192,Whitefield,No Junction,183,Whitefield,No Junction,1.973,Low
+183,Whitefield,No Junction,192,Whitefield,No Junction,1.973,Low
+206,V.V.Puram (C.Pet),BTP107 - National College Junction,146,Chamarajpet,BTP091 - Sirsi Circle,1.973,Low
+146,Chamarajpet,BTP091 - Sirsi Circle,206,V.V.Puram (C.Pet),BTP107 - National College Junction,1.973,Low
+39,Mico Layout,BTP126 - Dairy Circle,0,Madiwala,BTP137 - Madiwala Traffic PS Junction,1.975,Low
+0,Madiwala,BTP137 - Madiwala Traffic PS Junction,39,Mico Layout,BTP126 - Dairy Circle,1.975,Low
+137,Kamakshipalya,No Junction,55,Vijayanagara,BTP208 - Havanur Circle,1.979,Low
+72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",221,Banashankari,"BTP114 - KR Road Junction, Near JSS",1.979,Low
+55,Vijayanagara,BTP208 - Havanur Circle,137,Kamakshipalya,No Junction,1.979,Low
+221,Banashankari,"BTP114 - KR Road Junction, Near JSS",72,J.P. Nagar,"BTP159 - JP Nagar Metro, ORR",1.979,Low
+114,Cubbon Park,BTP041 - Gopal Gowda Circle,85,Ashok Nagar,BTP172 - Nanjappa Circle,1.982,Low
+201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",1.982,Low
+177,Bellandur,No Junction,11,HSR Layout,No Junction,1.982,Low
+85,Ashok Nagar,BTP172 - Nanjappa Circle,114,Cubbon Park,BTP041 - Gopal Gowda Circle,1.982,Low
+144,Bellandur,No Junction,31,Bellandur,No Junction,1.982,Low
+31,Bellandur,No Junction,144,Bellandur,No Junction,1.982,Low
+11,HSR Layout,No Junction,177,Bellandur,No Junction,1.982,Low
+33,Wilson Garden,"BTP123 - 10th Cross, Wilson Garden",201,Jayanagara,"BTP127 - Sagar Hospital, Jayanagar",1.982,Low
+70,Adugodi,BTP135 - UCO Bank Junction,151,Ashok Nagar,BTP132 - Anepalya Junction,1.983,Low
+151,Ashok Nagar,BTP132 - Anepalya Junction,70,Adugodi,BTP135 - UCO Bank Junction,1.983,Low
+115,Yeshwanthpura,No Junction,143,Rajajinagar,No Junction,1.985,Low
+143,Rajajinagar,No Junction,115,Yeshwanthpura,No Junction,1.985,Low
+68,K.R. Pura,No Junction,65,K.R. Pura,No Junction,1.987,Low
+65,K.R. Pura,No Junction,68,K.R. Pura,No Junction,1.987,Low
+209,Electronic City,No Junction,101,Electronic City,No Junction,1.988,Low
+148,Jalahalli,No Junction,164,Jalahalli,No Junction,1.988,Low
+164,Jalahalli,No Junction,148,Jalahalli,No Junction,1.988,Low
+101,Electronic City,No Junction,209,Electronic City,No Junction,1.988,Low
+177,Bellandur,No Junction,166,HSR Layout,No Junction,1.994,Low
+166,HSR Layout,No Junction,177,Bellandur,No Junction,1.994,Low

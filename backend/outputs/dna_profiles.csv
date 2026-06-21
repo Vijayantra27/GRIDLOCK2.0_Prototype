@@ -1,0 +1,55 @@
+police_station,dominant_vehicle,dominant_violation,peak_hour,weekend_ratio,total_violations
+Upparpet,CAR,"[""WRONG PARKING""]",3.0,33.22,34468
+Shivajinagar,SCOOTER,"[""WRONG PARKING""]",5.0,37.34,28044
+Malleshwaram,CAR,"[""WRONG PARKING""]",2.0,35.36,22200
+HAL Old Airport,SCOOTER,"[""NO PARKING""]",22.0,15.67,20819
+City Market,SCOOTER,"[""WRONG PARKING""]",19.0,32.59,17646
+Vijayanagara,SCOOTER,"[""WRONG PARKING""]",5.0,24.11,14652
+Rajajinagar,SCOOTER,"[""WRONG PARKING""]",5.0,26.56,10998
+Kodigehalli,SCOOTER,"[""WRONG PARKING""]",6.0,30.2,10916
+Magadi Road,SCOOTER,"[""NO PARKING""]",6.0,30.6,8558
+Jeevanbheemanagar,CAR,"[""NO PARKING""]",2.0,35.44,6736
+K.R. Pura,CAR,"[""WRONG PARKING""]",19.0,33.24,6546
+Halasuru Gate,SCOOTER,"[""WRONG PARKING""]",4.0,31.17,6294
+Mahadevapura,CAR,"[""WRONG PARKING""]",5.0,32.44,6187
+Chikkajala,CAR,"[""NO PARKING""]",23.0,28.83,5834
+HSR Layout,SCOOTER,"[""WRONG PARKING""]",5.0,34.85,5018
+Bellandur,CAR,"[""WRONG PARKING""]",23.0,20.17,4964
+High ground,SCOOTER,"[""WRONG PARKING""]",22.0,19.98,4951
+Byatarayanapura,SCOOTER,"[""WRONG PARKING""]",6.0,32.4,4555
+Electronic City,SCOOTER,"[""WRONG PARKING""]",7.0,34.92,4333
+Pulikeshinagar(F.Town),SCOOTER,"[""NO PARKING""]",21.0,27.39,4136
+Halasur,CAR,"[""NO PARKING""]",23.0,31.19,4011
+Jayanagara,CAR,"[""NO PARKING""]",3.0,34.28,3813
+Chamarajpet,PASSENGER AUTO,"[""NO PARKING""]",2.0,33.1,3795
+Banaswadi,CAR,"[""NO PARKING""]",1.0,23.09,3759
+Basavanagudi,SCOOTER,"[""WRONG PARKING""]",5.0,31.83,3604
+Ashok Nagar,SCOOTER,"[""NO PARKING""]",22.0,24.09,3524
+Adugodi,CAR,"[""NO PARKING""]",6.0,37.12,3332
+Cubbon Park,CAR,"[""NO PARKING""]",5.0,33.52,3255
+Hebbala,SCOOTER,"[""NO PARKING""]",5.0,26.18,3209
+Wilson Garden,SCOOTER,"[""NO PARKING""]",5.0,34.72,3108
+Sheshadripuram,CAR,"[""NO PARKING""]",5.0,25.37,3090
+Mico Layout,SCOOTER,"[""NO PARKING""]",6.0,31.38,2588
+Yeshwanthpura,CAR,"[""WRONG PARKING""]",21.0,34.52,2587
+Yelahanka,SCOOTER,"[""WRONG PARKING""]",21.0,31.39,2440
+Hulimavu,CAR,"[""WRONG PARKING""]",21.0,33.32,2395
+Whitefield,CAR,"[""WRONG PARKING""]",2.0,27.83,2303
+R.T. Nagar,CAR,"[""WRONG PARKING""]",22.0,15.5,1736
+J.P. Nagar,CAR,"[""NO PARKING""]",21.0,31.52,1637
+Madiwala,CAR,"[""NO PARKING""]",5.0,27.77,1563
+V.V.Puram (C.Pet),SCOOTER,"[""WRONG PARKING""]",21.0,25.77,1556
+Sadashivanagar,CAR,"[""WRONG PARKING""]",5.0,27.34,1445
+Kamakshipalya,SCOOTER,"[""WRONG PARKING""]",5.0,25.93,1431
+Banashankari,SCOOTER,"[""NO PARKING""]",21.0,15.64,1202
+Jalahalli,CAR,"[""NO PARKING""]",5.0,21.29,1160
+Jnanabharathi,CAR,"[""NO PARKING""]",6.0,34.9,1063
+Peenya,CAR,"[""WRONG PARKING""]",22.0,31.42,974
+Devanahalli Airport,CAR,"[""WRONG PARKING""]",23.0,20.32,940
+K.G. Halli,CAR,"[""NO PARKING""]",21.0,43.27,892
+Hennuru,CAR,"[""NO PARKING""]",8.0,32.96,892
+Thalagattapura,CAR,"[""NO PARKING""]",6.0,34.25,870
+K.S. Layout,CAR,"[""NO PARKING""]",6.0,33.09,828
+Chikkabanavara,CAR,"[""WRONG PARKING""]",6.0,29.81,785
+Kengeri,CAR,"[""NO PARKING""]",6.0,30.6,464
+No Police Station,CAR,"[""WRONG PARKING""]",6.0,36.28,339
