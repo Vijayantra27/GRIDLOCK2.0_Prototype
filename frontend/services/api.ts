@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://gridlock2-0-prototype.onrender.com";
 
 export const getHotspots = async () =>
   fetch(`${API_URL}/hotspots`)
